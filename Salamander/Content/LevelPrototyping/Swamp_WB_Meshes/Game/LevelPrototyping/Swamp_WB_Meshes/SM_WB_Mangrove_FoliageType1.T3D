@@ -1,0 +1,13 @@
+Begin Object Class=/Script/Foliage.FoliageType_InstancedStaticMesh Name="SM_WB_Mangrove_FoliageType1" ExportPath="/Script/Foliage.FoliageType_InstancedStaticMesh'/Game/LevelPrototyping/Swamp_WB_Meshes/SM_WB_Mangrove_FoliageType1.SM_WB_Mangrove_FoliageType1'"
+   Mesh="/Script/Engine.StaticMesh'/Game/LevelPrototyping/Swamp_WB_Meshes/SM_WB_Mangrove.SM_WB_Mangrove'"
+   UpdateGuid=91B74E6741F791EFE922AEA0FAC66B5D
+   Density=50.000000
+   ScaleX=(Min=0.400000,Max=0.600000)
+   ScaleY=(Min=0.400000,Max=0.600000)
+   ScaleZ=(Min=0.400000,Max=0.800000)
+   CollisionWithWorld=True
+   MeshBounds=(Origin=(X=0.000000,Y=0.000000,Z=297.500000),BoxExtent=(X=126.250000,Y=170.347961,Z=297.500000),SphereRadius=311.311209)
+   LowBoundOriginRadius=(X=2.500000,Y=3.402039,Z=123.743690)
+   ScaleCurve=(EditorCurveData=())
+   DensityFalloff=(FalloffCurve=(EditorCurveData=()))
+End Object
