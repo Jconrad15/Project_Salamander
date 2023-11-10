@@ -72,3 +72,5 @@ Build/*/**
 
 # Cache files for the editor to use
 **/DerivedDataCache/*
+Salamander/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_CamBlendTest.uasset
+Salamander/Content/ThirdPerson/Blueprints/BP_ViewDummy.uasset
